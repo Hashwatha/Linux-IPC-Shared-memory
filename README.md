@@ -12,7 +12,6 @@ Execute the C Program for the desired output.
 # PROGRAM:
 ## Write a C program that illustrates two processes communicating using shared memory.
 ```
-
 #include<unistd.h> 
 #include<stdlib.h> 
 #include<stdio.h> 
@@ -115,6 +114,5 @@ fprintf(stderr, "shmdt failed\n"); exit(EXIT_FAILURE);
 ![Screenshot from 2024-10-22 15-12-10](https://github.com/user-attachments/assets/c889cddf-7327-4fe5-af2c-f86a6b9956d2)
 
 ![Screenshot from 2024-10-22 15-12-30](https://github.com/user-attachments/assets/8f0a945f-9ab9-4f73-9923-e0b663b424ea)
-
 # RESULT:
 The program is executed successfully.
